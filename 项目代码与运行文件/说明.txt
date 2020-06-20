@@ -1,0 +1,3 @@
+项目文件在jukuu文件夹下。
+请在src/main/resources/application.yml文件中，修改为自己数据库的用户名和密码。
+安装maven后运行“编译.cmd”，即可在target目录下生成.jar文件，用java（jdk11及以上）运行.jar文件后，访问本地8082端口，即可运行。
